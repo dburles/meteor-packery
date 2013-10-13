@@ -1,0 +1,8 @@
+{
+  "name": "packery",
+  "description": "Bin-packing layout library",
+  "homepage": "https://github.com/dburles/meteor-packery",
+  "author": "David DeSandro",
+  "version": "0.1.0",
+  "git": "https://github.com/dburles/meteor-packery.git"
+}
