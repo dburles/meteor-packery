@@ -3,6 +3,6 @@
   "description": "Bin-packing layout library",
   "homepage": "https://github.com/dburles/meteor-packery",
   "author": "David Burles",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "git": "https://github.com/dburles/meteor-packery.git"
 }
